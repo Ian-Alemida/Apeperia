@@ -10,3 +10,7 @@
     --cinza-claro: #F7F4F4;
     --cinza-medio: #D9D9D9;
 }
+
+body{
+    font-family: 'open-sans', sans-serif;
+}
