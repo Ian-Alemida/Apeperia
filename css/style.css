@@ -19,3 +19,13 @@ body{
     padding-right: 6%;
     padding-left: 6%;
 }
+
+.botao{
+    border: 1px solid var(--branco);
+    border-radius: 5px;
+    box-sizing: border-box;
+    max-width: 350px;
+    padding: 1rem 2rem;
+    text-align: center;
+    width: 100%;
+}
