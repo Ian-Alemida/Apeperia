@@ -1,0 +1,25 @@
+.highlights{
+    background-color: var(--bg-highlights);
+    padding: 2.5rem 1rem;
+    text-align: center;
+}
+
+.highlights__title{
+    color: var(--cinza-escuro);
+    font-size: 1.5rem;
+    font-family: var(--montserrat);
+    font-weight: 700;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+.highlights__panel{
+    display: flex;
+    flex-direction: column;
+}
+
+.highlights__panel-img{
+    width: 100vw;
+    box-shadow: 0 5px 10px 20px #00000020;
+    margin-bottom: .5rem;
+}
