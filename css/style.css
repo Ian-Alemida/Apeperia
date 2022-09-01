@@ -1,6 +1,7 @@
 @import url(cabecalho.css);
 @import url(chamada.css);
 @import url(planos.css);
+@import url(highlights.css);
 
 :root{
     --branco: #FFF;
