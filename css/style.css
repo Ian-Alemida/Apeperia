@@ -4,6 +4,8 @@
 @import url(highlights.css);
 @import url(diferenciais.css);
 @import url(sobre.css);
+@import url(institucional.css);
+@import url(contato.css);
 
 :root{
     --branco: #FFF;
