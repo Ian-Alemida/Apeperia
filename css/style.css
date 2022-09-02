@@ -2,6 +2,8 @@
 @import url(chamada.css);
 @import url(planos.css);
 @import url(highlights.css);
+@import url(diferenciais.css);
+@import url(sobre.css);
 
 :root{
     --branco: #FFF;
