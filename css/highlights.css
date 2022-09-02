@@ -23,8 +23,9 @@
 
 .highlights__panel-img{
     width: 100vw;
-    box-shadow: 0 5px 10px 20px #00000020;
+    box-shadow: 0 2px 10px 5px #00000020;
     margin-bottom: .5rem;
+    max-width: 600px;
 }
 
 .highlights__panel-text{
