@@ -13,6 +13,8 @@
     max-width: 350px;
 
     box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-position: top 1.5rem left 2.5rem;
 
     padding: 2rem 0 2rem 5rem;
 }
