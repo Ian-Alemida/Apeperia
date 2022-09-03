@@ -6,6 +6,7 @@
 @import url(sobre.css);
 @import url(institucional.css);
 @import url(contato.css);
+@import url(rodapé.css);
 
 :root{
     --branco: #FFF;
