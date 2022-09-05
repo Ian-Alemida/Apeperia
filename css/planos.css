@@ -53,6 +53,7 @@
 
 .cartao__conteudo {
     padding: 0 15%;
+    flex-direction: column;
 }
 
 .cartao__preco {
@@ -81,10 +82,9 @@
 
     align-self: center;
 
-    padding: 1rem 2rem;
+    padding: .5rem 1rem;
 
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin: 1rem 15%;
 }
 
 .cartao--start {
@@ -109,6 +109,10 @@
 
 .cartao__botao--mega {
     border-color: var(--planos-cartao-mega);
+}
+
+.div__botao{
+    padding: 1.5rem 15% .5rem;
 }
 
 @media screen and (min-width: 768px){
