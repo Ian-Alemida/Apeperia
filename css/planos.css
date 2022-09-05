@@ -20,7 +20,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 100%;
 }
 
 .cartao {
@@ -70,21 +69,15 @@
     line-height: 28px;
 }
 
-.cartao__botao {
+.cartao__botao{
     border: 1px solid var(--branco);
-    border-radius: 5px;
-    box-sizing: border-box;
-
-    font-size: 1.2rem;
+    border-radius: 13px;
+    padding: 1rem;
+    width: 210px;
+    margin: .6rem auto;
     font-weight: 700;
-
-    width: 100%;
-
-    align-self: center;
-
-    padding: .5rem 1rem;
-
-    margin: 1rem 15%;
+    font-size: 1.2rem;
+    text-align: center;
 }
 
 .cartao--start {
@@ -118,5 +111,17 @@
 @media screen and (min-width: 768px){
     .cartao{
         max-width: 400px;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .planos__cartoes{
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-end;
+    }
+    .cartao{
+        padding: 1rem .1rem;
+        width: 300px;
     }
 }
