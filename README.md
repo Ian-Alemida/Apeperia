@@ -1,6 +1,6 @@
 <h1>Apeperia</h1>
 
-> status do projeto: Em desenvolvimento
+> status do projeto: Concluido
 
 Para rodar esse site em sua maquina vc precisara apenas de:
 
