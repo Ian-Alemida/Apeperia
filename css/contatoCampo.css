@@ -27,8 +27,10 @@
 }
 
 .contatoCampo-checkbox {
+/*  display: none;*/
+/*  visibility: hidden*/
+  left: -9999px;
   position: absolute;
-  left: -99999;
   opacity: 0;
 }
 
